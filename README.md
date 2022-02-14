@@ -1,4 +1,4 @@
-# HD Font
+# Slightly Improved Font
 
 This is a simple resource pack that only adds upscaled version of Minecraft font.
 
