@@ -1,6 +1,7 @@
 {
 	"pack": {
 		"pack_format": 8,
+		"supported_formats": [8, 99],
 		"description": "§ehttps://latvian.dev/hdfont\n§bMade by Lat"
 	}
 }
